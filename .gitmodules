@@ -1,0 +1,4 @@
+[submodule "Aldais/eatman"]
+	path = Aldais/eatman
+	url = git@github.com:Aldais/eatman.git
+	branch = master
